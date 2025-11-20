@@ -19,7 +19,6 @@ add '>' before the text
 [Callouts - Obsidian Help](https://help.obsidian.md/callouts)
 
 # Lists
----
 1. First item
 2. Second item
 3. Third item
@@ -29,18 +28,15 @@ add '>' before the text
 - third  use -, * or +
 
 # Tasked lists
----
 - [x] completed
 - [ ] incomplete  
 /- [ ]
 
 # Horizontal rule
----
 \* \* \*  
 \- \- \-  
 \_ \_ \_
 # Code
----
 Text inside `backticks` on a line will be formatted like code.  
 ``I miss you, I miss my youth.``  
 ```
@@ -63,7 +59,6 @@ void recur(int n){
 ```  
 
 # Footnotes
-----
 This is a simple footnote[^1], copied by rabbish bin[^2]
 
 [^1]: This is the referenced text.
