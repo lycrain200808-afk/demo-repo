@@ -52,7 +52,7 @@ function fancyAlert(arg) {
 }
 ```  
 ```c
-void recur(int n){
+int recur(int n){
 	if (n==1) return 1; 
 	return recur(n-1)+n;
 }
